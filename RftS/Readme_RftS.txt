@@ -34,13 +34,15 @@ v3   \/
 *Sea-level-optimized LR22 added (OMS rescale)
 *Added new textures for Procedural Wings (black, green)
 *Added rescaled B9 intake
-*Added rescaled SXT intake
+*Added rescaled SXT intakes
 *Added rescaled Firespitter oblong parts and gear, and removed open nodes from nosecones/tails
 *Added Communotron 8 (small antenna)
 *Added rescaled circular intakes
 *Added rescaled TVPP shock cone intakes
-*Added new historical jets: J57, J57, J79, Avon, Nene, RD-43.
+*Added new historical jets and props (mostly real, since jets and props are harder to make up)
 *Added AJE support for TVPP ramjets
 *Added NovaPunch 1 Bronco (single)
 *Added conic shroud
 *Added KW side tank rescales
+*Add new black textures for the Mk2 system and Mark 1 Cockpit
+*Switch to KM_Gimbal for engines
