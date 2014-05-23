@@ -46,3 +46,4 @@ v3   \/
 *Added KW side tank rescales
 *Add new black textures for the Mk2 system and Mark 1 Cockpit
 *Switch to KM_Gimbal for engines
+*Greatly increased gimbal ranges
