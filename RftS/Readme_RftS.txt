@@ -15,7 +15,7 @@ B9 by the terrific Taverius and Bac9
 Rescales and clones (so as not to disturb real-life versions) of some FASA parts, by permission of the fantastic Frizzank
 Firespitter by the superb Snjo
 KW Rocketry by the wonderful Winston and Kyle
-NovaPunch 2 is by the top-notch Tiberion
+NovaPunch 2 by the top-notch Tiberion
 Procedural Wings by the delightful DYJ
 SDHI service module by the stellar sumghai
 SXT by the laudable Lack
