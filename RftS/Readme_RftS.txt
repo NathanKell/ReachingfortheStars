@@ -4,7 +4,7 @@ License CC-BY-NC-SA
 Instructions:
 Extract archive to GameData
 
-Requires Realism Overhaul (and all its dependencies), some of KW, some of NP2, some of B9, some of Firespitter, Procedural Wings, FASA, some of AIES, some of NP2, SXT, SDHI, TVPP.
+Requires Realism Overhaul (and all its dependencies including AJE), some of KW, some of NP2, some of B9, some of Firespitter, Procedural Wings, FASA, some of AIES, some of NP2, SXT, SDHI, TVPP.
 
 Includes Mettworks Inline Cockpit by Mettwurst, retextured. Used with permission.
 Includes some NovaPunch v1.x engines deprecated in NovaPunch 2. Used with permission.
