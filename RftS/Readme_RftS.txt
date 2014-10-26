@@ -24,6 +24,9 @@ Taverio's Pizza and Aerospace is again by the terrific Taverius.
 Also includes RftSEngines, my comprehensive set of realistic but RftS-universe engine configs.
 
 Changelog:
+v4
+*Upgrade to RF v8
+
 v3   \/
 *Initial release-that-has-a-readme
 *Tweaks to some fuel performance
